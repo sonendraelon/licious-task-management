@@ -4,8 +4,7 @@ Task management dashboard built for a frontend assignment. Using React + TypeScr
 
 ## Live demo
 
-Replace with your link when deployed: https://your-deployment-url.example
-
+https://licious-task-management-dashboard.netlify.app/
 
 ## What it does
 
