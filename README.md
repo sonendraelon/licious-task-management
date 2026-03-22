@@ -45,18 +45,18 @@ https://licious-task-management-dashboard.netlify.app/
 ## Screenshots
 
 **List view**
-
-<img width="1456" height="902" alt="list view" src="https://github.com/user-attachments/assets/66960da2-1838-473d-b738-fac2199d014b" />
+<img width="1456" height="902" alt="list view" src="https://github.com/user-attachments/assets/b17f505e-21e6-4ac5-95cf-7d45062da2ea" />
 
 **Card view**
+<img width="1442" height="774" alt="card view" src="https://github.com/user-attachments/assets/4dbf464c-af8a-4519-8a08-8847dc9a48da" />
 
-<img width="1442" height="774" alt="card view" src="https://github.com/user-attachments/assets/fdc8bc5d-c98e-4e1e-aa1d-3f9e362b5395" />
+
 
 **Mobile**
 
-<img width="521" height="782" alt="Screenshot 2026-03-21 203044" src="https://github.com/user-attachments/assets/112d1a3a-24ea-46fd-aba4-f3a29eb13f07" />
+<img width="521" height="782" alt="Screenshot 2026-03-21 203044" src="https://github.com/user-attachments/assets/a7c39df4-396a-470b-9e6d-48d96d27e619" />
+<img width="529" height="815" alt="Screenshot 2026-03-21 203135" src="https://github.com/user-attachments/assets/679286a7-8cf7-47f2-bcbd-04b39ca7af1b" />
 
-<img width="529" height="815" alt="Screenshot 2026-03-21 203135" src="https://github.com/user-attachments/assets/6e313f42-9441-4197-85a2-476798ddfd05" />
 
 
 ## Tech stack
